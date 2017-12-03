@@ -1,6 +1,7 @@
 # Computer-Science-Fundamentals
 
 Preparation for a Masters in Computer Science, referencing https://github.com/ossu/computer-science.
+Tracking my progress: https://trello.com/b/Odym3iha.
 
 ## Introduction to Computer Science
 
@@ -17,5 +18,5 @@ Preparation for a Masters in Computer Science, referencing https://github.com/os
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) | 12 weeks | 10-20 hours/week | none
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra
