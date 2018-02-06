@@ -4,7 +4,7 @@ Preparation for a Masters in Computer Science, referencing https://github.com/os
 
 Tracking my progress @ https://trello.com/b/Odym3iha.
 
-### Introduction to Computer Science
+## Introduction to Computer Science
 
 **Topics covered**:
 `imperative programming`
@@ -32,10 +32,10 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
-### Core Computer Science
+## Core Computer Science
 
-## Core Programming
-## Core Math
-## Core Systems
-## Core Theory
-## Core Applications
+### Core Programming
+### Core Math
+### Core Systems
+### Core Theory
+### Core Applications
