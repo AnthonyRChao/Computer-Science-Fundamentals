@@ -24,7 +24,8 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 - [x] W3: Memory | 12/21/17
 - [x] W4: Data Structures | 3/17/18
 - [x] W5: HTTP | 3/17/18
-- [ ] W6: Dynamic Programming / Python
+- [x] W6: Dynamic Programming / Python | 3/18/18
+- [ ] W6.5: Dynamic Programming / Python, continued
 - [ ] W7: Python
 - [ ] W8: SQL
 - [ ] W9: JavaScript
