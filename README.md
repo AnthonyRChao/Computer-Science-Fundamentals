@@ -1,6 +1,6 @@
 # Computer-Science-Fundamentals
 
-Preparation for a Masters in Computer Science, referencing https://github.com/ossu/computer-science.
+Referencing https://github.com/ossu/computer-science.
 
 Tracking my progress @ https://trello.com/b/Odym3iha.
 
