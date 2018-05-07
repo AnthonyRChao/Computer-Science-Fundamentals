@@ -4,7 +4,7 @@ Referencing https://github.com/ossu/computer-science.
 
 Tracking my progress @ https://trello.com/b/Odym3iha.
 
-## Introduction to Computer Science
+#### CS50 Introduction to Computer Science
 
 **Topics covered**:
 `imperative programming`
@@ -33,21 +33,20 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
-## Core Computer Science
-
-### Core Programming
-### Core Math
-### Core Systems
-### Core Theory
-### Core Applications
-
-Mode Analytics - SQL
+#### Mode Analytics - SQL
 - [x] Basic | 4/29/18
 - [ ] Intermediate
 - [ ] Advanced
 - [ ] SQL Analytics Training
 
-Udemy
+#### Udemy
 - [ ] Python Bootcamp: Zero to Hero
 - [ ] Python for Financial Analysis and Algorithmic Trading
 - [ ] Machine Learning A-Z™: Hands-On Python & R In Data Science
+
+#### Core Programming
+#### Core Math
+#### Core Systems
+#### Core Theory
+#### Core Applications
+
