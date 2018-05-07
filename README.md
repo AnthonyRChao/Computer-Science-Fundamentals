@@ -40,3 +40,14 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 ### Core Systems
 ### Core Theory
 ### Core Applications
+
+Mode Analytics - SQL
+- [x] Basic | 4/29/18
+- [ ] Intermediate
+- [ ] Advanced
+- [ ] SQL Analytics Training
+
+Udemy
+- [ ] Python Bootcamp: Zero to Hero
+- [ ] Python for Financial Analysis and Algorithmic Trading
+- [ ] Machine Learning A-Z™: Hands-On Python & R In Data Science
