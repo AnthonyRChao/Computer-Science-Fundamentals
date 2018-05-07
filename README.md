@@ -38,9 +38,11 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 
 ### Algorithms
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+
 [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ### Linear Algebra
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers)
 
 ### Probability & Statistics
 
