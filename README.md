@@ -31,7 +31,10 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 - [ ] W9: JavaScript
 - [ ] W10: The End
 
+[Data Structure Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+[Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 #### Mode Analytics - SQL
 - [x] Basic | 4/29/18
