@@ -48,7 +48,7 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 
 ### Mode Analytics - SQL
 - [x] Basic | 4/29/18
-- [ ] Intermediate
+- [x] Intermediate | 5/4/18
 - [ ] Advanced
 - [ ] SQL Analytics Training
 
