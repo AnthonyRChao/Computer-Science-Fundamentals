@@ -7,7 +7,8 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 ### Introduction to Computer Science
 **Topics covered**:
 `imperative programming, procedural programming, C, manual memory management, data structures and algorithms, Python, SQL, HTML, CSS, JavaScript`
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+
+[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [x] W0: Scratch | 11/26/17
 - [x] W1: C | 11/29/17
 - [x] W2: Algorithms| 12/10/17
