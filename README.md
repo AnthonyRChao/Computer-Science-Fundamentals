@@ -1,8 +1,6 @@
-# Computer-Science-Fundamentals
+# Computer Science Fundamentals
 
 Referencing https://github.com/ossu/computer-science.
-
-Tracking my progress @ https://trello.com/b/Odym3iha.
 
 ### Introduction to Computer Science
 **Topics covered**:
@@ -20,7 +18,11 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 - [x] W7: Python | 9/1/18
 - [x] W8: SQL | 9/15/18
 - [x] W9: JavaScript | 11/2/18
-- [ ] W10: The End
+- [ ] W10: The End | *Currently Working On*
+
+### Python
+- [x] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) | 10/25/18
+- [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) | *Currently Working On*
 
 ### SQL 
 [Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
@@ -30,7 +32,7 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 - [x] SQL Analytics Training 7/1/18
 
 ### Algorithms
-- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | *Currently Working On*
 - [ ] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ### Data Structures
