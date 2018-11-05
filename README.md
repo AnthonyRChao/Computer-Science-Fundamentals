@@ -5,18 +5,8 @@ Referencing https://github.com/ossu/computer-science.
 Tracking my progress @ https://trello.com/b/Odym3iha.
 
 ### Introduction to Computer Science
-
 **Topics covered**:
-`imperative programming`
-`procedural programming`
-`C`
-`manual memory management`
-`basic data structures and algorithms`
-`Python`
-`SQL`
-`basic HTML, CSS, JavaScript`
-`and more`
-
+`imperative programming, procedural programming, C, manual memory management, data structures and algorithms, Python, SQL, HTML, CSS, JavaScript`
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [x] W0: Scratch | 11/26/17
 - [x] W1: C | 11/29/17
@@ -31,7 +21,8 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 - [x] W9: JavaScript | 11/2/18
 - [ ] W10: The End
 
-### SQL (Mode Analytics)
+### SQL 
+[Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - [x] Basic | 4/29/18
 - [x] Intermediate | 5/4/18
 - [x] Advanced | 6/1/18
