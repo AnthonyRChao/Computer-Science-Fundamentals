@@ -4,7 +4,7 @@ Referencing https://github.com/ossu/computer-science.
 
 Tracking my progress @ https://trello.com/b/Odym3iha.
 
-### CS50 Introduction to Computer Science
+### Introduction to Computer Science
 
 **Topics covered**:
 `imperative programming`
@@ -31,31 +31,23 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 - [x] W9: JavaScript | 11/2/18
 - [ ] W10: The End
 
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+### SQL (Mode Analytics)
+- [x] Basic | 4/29/18
+- [x] Intermediate | 5/4/18
+- [x] Advanced | 6/1/18
+- [x] SQL Analytics Training 7/1/18
 
 ### Algorithms
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ### Data Structures
-[Data Structure Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
+- [ ] [Data Structure Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
 
 ### Linear Algebra
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers)
+- [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers)
 
-### Probability & Statistics
-
-### Mode Analytics - SQL
-- [x] Basic | 4/29/18
-- [x] Intermediate | 5/4/18
-- [x] Advanced | 6/1/18
-- [x] SQL Analytics Training 7/1/18
-
-### Udemy
-- [ ] Python Bootcamp: Zero to Hero
-- [ ] Python for Financial Analysis and Algorithmic Trading
-- [ ] Machine Learning A-Z™: Hands-On Python & R In Data Science
-
+#### Probability & Statistics
 #### Core Programming
 #### Core Math
 #### Core Systems
