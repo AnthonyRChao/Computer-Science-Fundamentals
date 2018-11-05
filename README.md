@@ -26,20 +26,19 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 - [x] W5: HTTP | 3/17/18
 - [x] W6: Dynamic Programming / Python | 3/18/18
 - [x] W6.5: Dynamic Programming / Python, continued | 3/18/18
-- [ ] W7: Python
-- [ ] W8: SQL
-- [ ] W9: JavaScript
+- [x] W7: Python | 9/1/18
+- [x] W8: SQL | 9/15/18
+- [x] W9: JavaScript | 11/2/18
 - [ ] W10: The End
 
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
+### Algorithms
+- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [ ] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+
 ### Data Structures
 [Data Structure Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
-
-### Algorithms
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-
-[Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ### Linear Algebra
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers)
@@ -49,8 +48,8 @@ Tracking my progress @ https://trello.com/b/Odym3iha.
 ### Mode Analytics - SQL
 - [x] Basic | 4/29/18
 - [x] Intermediate | 5/4/18
-- [ ] Advanced
-- [ ] SQL Analytics Training
+- [x] Advanced | 6/1/18
+- [x] SQL Analytics Training 7/1/18
 
 ### Udemy
 - [ ] Python Bootcamp: Zero to Hero
