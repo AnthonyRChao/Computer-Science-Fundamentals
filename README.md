@@ -3,10 +3,12 @@
 Referencing https://github.com/ossu/computer-science.
 
 ### Introduction to Computer Science
+
+[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+
 **Topics covered**:
 `imperative programming, procedural programming, C, manual memory management, data structures and algorithms, Python, SQL, HTML, CSS, JavaScript`
 
-[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [x] W0: Scratch | 11/26/17
 - [x] W1: C | 11/29/17
 - [x] W2: Algorithms| 12/10/17
@@ -18,11 +20,11 @@ Referencing https://github.com/ossu/computer-science.
 - [x] W7: Python | 9/1/18
 - [x] W8: SQL | 9/15/18
 - [x] W9: JavaScript | 11/2/18
-- [ ] W10: The End | *Currently Working On*
+- [ ] W10: The End | **Currently Working On**
 
 ### Python
 - [x] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) | 10/25/18
-- [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) | *Currently Working On*
+- [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) | **Currently Working On**
 
 ### SQL 
 [Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
@@ -32,7 +34,7 @@ Referencing https://github.com/ossu/computer-science.
 - [x] SQL Analytics Training 7/1/18
 
 ### Algorithms
-- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | *Currently Working On*
+- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | **Currently Working On**
 - [ ] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ### Data Structures
