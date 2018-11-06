@@ -26,6 +26,9 @@ Referencing https://github.com/ossu/computer-science.
 - [x] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) | 10/25/18
 - [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) | **Currently Working On**
 
+### Java
+- [ ] [Complete Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/) | **Currently Working On**
+
 ### SQL 
 [Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - [x] Basic | 4/29/18
