@@ -37,7 +37,7 @@ Referencing https://github.com/ossu/computer-science.
 - [x] SQL Analytics Training 7/1/18
 
 ### Algorithms
-- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | **Currently Working On**
+- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ### Data Structures
