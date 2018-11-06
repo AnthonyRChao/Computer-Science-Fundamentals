@@ -4,23 +4,10 @@ Referencing https://github.com/ossu/computer-science.
 
 ### Introduction to Computer Science
 
-[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- [ ] [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) | **Currently Working On**
 
 **Topics covered**:
 `imperative programming, procedural programming, C, manual memory management, data structures and algorithms, Python, SQL, HTML, CSS, JavaScript`
-
-- [x] W0: Scratch | 11/26/17
-- [x] W1: C | 11/29/17
-- [x] W2: Algorithms| 12/10/17
-- [x] W3: Memory | 12/21/17
-- [x] W4: Data Structures | 3/17/18
-- [x] W5: HTTP | 3/17/18
-- [x] W6: Dynamic Programming / Python | 3/18/18
-- [x] W6.5: Dynamic Programming / Python, continued | 3/18/18
-- [x] W7: Python | 9/1/18
-- [x] W8: SQL | 9/15/18
-- [x] W9: JavaScript | 11/2/18
-- [ ] W10: The End | **Currently Working On**
 
 ### Python
 - [x] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) | 10/25/18
@@ -36,6 +23,9 @@ Referencing https://github.com/ossu/computer-science.
 - [x] Advanced | 6/1/18
 - [x] SQL Analytics Training 7/1/18
 
+### Web Development
+- [ ] [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
 ### Algorithms
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
@@ -46,10 +36,10 @@ Referencing https://github.com/ossu/computer-science.
 ### Linear Algebra
 - [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers)
 
-#### Probability & Statistics
-#### Core Programming
-#### Core Math
-#### Core Systems
-#### Core Theory
-#### Core Applications
+### Probability & Statistics
+### Core Programming
+### Core Math
+### Core Systems
+### Core Theory
+### Core Applications
 
